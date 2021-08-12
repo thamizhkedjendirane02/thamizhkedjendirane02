@@ -1,0 +1,193 @@
+.navbar-margin {
+    margin-left: 4%;
+    padding-bottom: 20px;
+  
+
+}
+.sidenavbar
+{
+    height: 100%;
+    width: 73px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:white;
+    overflow-x: hidden;
+    padding-top: 30px;
+    margin-top: 3.7%;
+    color:black;
+}
+.logo{ 
+    position:fixed; 
+    top:0; 
+    left:0; 
+  padding-top: 10px;
+  padding-left: 20px;
+  font-size: 30px;
+  padding-bottom: 11.5px;
+  padding-right: 20.5px;
+  background-color: white;
+  } 
+.heading
+{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.headingtwo
+{
+    margin-left: 200px;
+    
+
+}
+.cardsizing
+{
+    margin-left: 190px;
+    margin-right: 90px;
+    margin-top: 8px;
+}
+.cardicon
+{
+    margin-left: 20px;
+    margin-top: 2px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+.par
+{
+            display: block;
+            color: rgb(95, 95, 95);
+            padding: 20px 1px;
+            padding-left: 20px;
+            padding-right: 10px;
+            padding-top: 10px;
+            font-size: 20px;
+           
+}
+.par:hover{
+  color:black;
+  font-size: 30px;
+}
+.navbar
+{
+    padding-left: 5%;
+}
+.disable
+{
+    color: gray;
+}
+.margin{
+    margin-top: 40px;
+    color:black
+  
+}
+.inner
+{
+    margin-left: 610px;
+    margin-top: -218px;
+}
+.innertwo
+{
+    margin-left: 610px;
+    margin-top: 1px;
+    margin-bottom: 40px;
+}
+.side
+{
+    margin-top: 40px;
+    margin-right:1400px ;
+    margin-left: 190px;
+
+}
+.alignment
+{
+    margin-top: -10px;
+}
+
+
+
+
+
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 32px;
+    height: 16px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(228, 222, 222);
+    -webkit-transition: .2s;
+    transition: .2s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 10px;
+    width: 10px;
+    left: 3px;
+    bottom: 3px;
+    background-color:#007f66;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color:#fcc8c;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(30px);
+    -ms-transform: translateX(25px);
+    transform: translateX(17px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 15px;
+  }
+  
+  .slider.round:before {
+    border-radius: 70%;
+  }
+
+
+  .switchstyle
+  {
+      margin-left: 1766px;
+      margin-top:-100px;
+  }
+  .last
+  {
+    margin-left: 220px;
+    margin-top:-100px;
+  
+  }
+  .lasttwo
+  {
+    margin-left: 220px;
+  }
+  .rightside
+  {
+    margin-left: 1640px;
+    margin-top:-100px;
+  }
+  
